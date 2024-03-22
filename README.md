@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 My Portfolio Website [https://grand-pithivier-1ebfe7.netlify.app/](https://grand-pithivier-1ebfe7.netlify.app/)
+- 
+- 🚧 HTML CSS Project [https://priyanshu-solon.github.io/CollegeStudentInformation/](https://priyanshu-solon.github.io/CollegeStudentInformation/)
 
 - 💬 My Resume **https://grand-pithivier-1ebfe7.netlify.app/assets/resume-example.pdf**
 
