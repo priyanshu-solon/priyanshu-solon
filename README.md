@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio Website [Portfolio Website Link](https://grand-pithivier-1ebfe7.netlify.app/)
  
-- 🚧 JS Calorie Counter Project [Calorie Counter Link]([https://priyanshu-solon.github.io/CollegeStudentInformation/](https://priyanshu-solon.github.io/Calorie-Counter/))
+- 🚧 JS Calorie Counter Project [Calorie Counter Link](https://priyanshu-solon.github.io/Calorie-Counter/)
 
 - 💬 My Resume [Resume Link](https://grand-pithivier-1ebfe7.netlify.app/assets/resume-example.pdf)
 
