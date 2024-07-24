@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio Website [Portfolio Website Link](https://grand-pithivier-1ebfe7.netlify.app/)
  
-- 🚧 JS Projects [Calorie Counter Link](https://priyanshu-solon.github.io/Calorie-Counter/) [Rock Paper Scissor Link](https://priyanshu-solon.github.io/Rock-Paper-Scissor/)
+- 🚧 JS Projects [Calorie Counter Link](https://priyanshu-solon.github.io/Calorie-Counter/) [Rock Paper Scissor Link](https://priyanshu-solon.github.io/Rock-Paper-Scissor/) [Quincy Larson Playlist](https://priyanshu-solon.github.io/Music-player/)
 
 - 💬 My Resume [Resume Link](https://grand-pithivier-1ebfe7.netlify.app/assets/resume-example.pdf)
 
