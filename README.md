@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 My Portfolio Website [Portfolio Website Link](https://grand-pithivier-1ebfe7.netlify.app/)
- 
-- 🚧 JS Projects [Calorie Counter Link](https://priyanshu-solon.github.io/Calorie-Counter/) [Rock Paper Scissor Link](https://priyanshu-solon.github.io/Rock-Paper-Scissor/) [Quincy Larson Playlist](https://priyanshu-solon.github.io/Music-player/)
+- 📫 E-mail **priyanshusolon2001@gmail.com**
 
 - 💬 My Resume [Resume Link](https://grand-pithivier-1ebfe7.netlify.app/assets/resume-example.pdf)
 
-- 📫 E-mail **priyanshusolon2001@gmail.com**
+- 👨‍💻 My Portfolio Website [Portfolio Website Link](https://grand-pithivier-1ebfe7.netlify.app/)
+ 
+- 🚧 JS Projects [Calorie Counter Link](https://priyanshu-solon.github.io/Calorie-Counter/) [Rock Paper Scissor Link](https://priyanshu-solon.github.io/Rock-Paper-Scissor/) [Quincy Larson Playlist](https://priyanshu-solon.github.io/Music-player/)
 
 - ⚡ Hobbies **Sketching,Chess,Volleyball,3D modelling**
 
