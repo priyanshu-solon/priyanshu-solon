@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/cat.gif" width="60" height="60" />Hii 👋, I'm Priyanshu Solon 🧑‍💻
+<h1 align="center"><img src="./assets/cat.gif" width="60" height="60" />Hii 👋, I'm Priyanshu Solon
 <h3 align="center">Software Developer | Open Source Enthusiast | Data Structure Problem Solver</h3>
 
  <div>
